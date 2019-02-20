@@ -6,3 +6,5 @@ theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
+github:
+  zip_url: http://example.com/download.zip
