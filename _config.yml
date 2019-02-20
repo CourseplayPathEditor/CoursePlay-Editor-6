@@ -7,4 +7,4 @@ theme: jekyll-theme-leap-day
 gems:
   - jekyll-mentions
 github:
-  zip_url: http://example.com/download.zip
+  zip_url: https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/icon_download.png
