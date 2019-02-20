@@ -2,7 +2,7 @@ title: CourseDrawer
 description: Managing courses in Courseplay
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
