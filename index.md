@@ -2,7 +2,7 @@
 
 CoursePlay Editor 6 is a tool for visual editing of XML files used in Courseplay Farming Simulator 2019, developed initially by Pawpouk, has been rebuilt by us to deal with the data produced by Courseplay 6.0
 
-
+![CoursePLayEditor6](https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/Screen%20detail.PNG)
 
 ### You have to run it under only Windows 10
 
