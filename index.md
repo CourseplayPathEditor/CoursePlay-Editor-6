@@ -1,4 +1,4 @@
-### Welcome to CoursePlay Editor 6.
+### Welcome to CP Editor 6.
 
 CoursePlay Editor 6 is a tool for visual editing of XML files used in Courseplay Farming Simulator 2019, developed initially by Pawpouk, has been rebuilt by us to deal with the data produced by Courseplay 6.0
 
