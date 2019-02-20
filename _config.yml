@@ -7,4 +7,4 @@ theme: jekyll-theme-leap-day
 gems:
   - jekyll-mentions
 github:
-  zip_url: https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/icon_download.png
+  zip_url: https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/raw/gh-pages/release/FS19_FarmingDesktop-1.0.0.12.zip
