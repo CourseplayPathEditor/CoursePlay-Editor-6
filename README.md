@@ -71,3 +71,40 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+[travis-image]: https://travis-ci.org/snowplow/snowplow.png?branch=master
+[travis]: http://travis-ci.org/snowplow/snowplow
+
+[release-image]: https://img.shields.io/badge/release-112_Baalbek-orange.svg?style=flat
+[releases]: https://github.com/snowplow/snowplow/releases
+
+[license-image]: http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
+[license]: http://www.apache.org/licenses/LICENSE-2.0
+
+[gitter-image]: https://badges.gitter.im/snowplow/snowplow.svg
+[gitter]: https://gitter.im/snowplow/snowplow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+[website]: http://snowplowanalytics.com
+[wiki]: https://github.com/snowplow/snowplow/wiki
+[architecture-image]: https://d3i6fms1cm1j0i.cloudfront.net/github-wiki/images/snowplow-architecture.png
+[architecture-doc]: https://github.com/snowplow/snowplow/wiki/Technical-architecture
+[talk-to-us]: https://github.com/snowplow/snowplow/wiki/Talk-to-us
+[contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
+
+[setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
+[tech-docs]: https://github.com/snowplow/snowplow/wiki/SnowPlow%20technical%20documentation
+[tracker-protocol]: https://github.com/snowplow/snowplow/wiki/snowplow-tracker-protocol
+[collector-logs]: https://github.com/snowplow/snowplow/wiki/Collector-logging-formats
+[data-structure]: https://github.com/snowplow/snowplow/wiki/canonical-event-model
+[looker]: http://www.looker.com/
+
+[techdocs-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/techdocs.png
+[setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
+[roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
+[contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
+
+[techdocs]: https://github.com/snowplow/snowplow/wiki/SnowPlow-technical-documentation
+[setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
+[roadmap]: https://github.com/snowplow/snowplow/wiki/Product-roadmap
+[contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
+
