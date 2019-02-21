@@ -77,12 +77,12 @@ limitations under the License.
 [talk-to-us]: https://github.com/snowplow/snowplow/wiki/Talk-to-us
 [contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
 
-[setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
-[tech-docs]: https://github.com/snowplow/snowplow/wiki/SnowPlow%20technical%20documentation
-[tracker-protocol]: https://github.com/snowplow/snowplow/wiki/snowplow-tracker-protocol
-[collector-logs]: https://github.com/snowplow/snowplow/wiki/Collector-logging-formats
-[data-structure]: https://github.com/snowplow/snowplow/wiki/canonical-event-model
-[looker]: http://www.looker.com/
+[setup]: 
+[tech-docs]: 
+[tracker-protocol]: 
+[collector-logs]: 
+[data-structure]: 
+[looker]: 
 
 [techdocs-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/techdocs.png
 [setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
