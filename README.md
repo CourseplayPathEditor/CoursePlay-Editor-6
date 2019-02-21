@@ -59,23 +59,23 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 [travis-image]: https://travis-ci.org/snowplow/snowplow.png?branch=master
-[travis]: http://travis-ci.org/snowplow/snowplow
+[travis]: 
 
 [release-image]: https://img.shields.io/badge/release-112_Baalbek-orange.svg?style=flat
-[releases]: https://github.com/snowplow/snowplow/releases
+[releases]: 
 
 [license-image]: http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
-[license]: http://www.apache.org/licenses/LICENSE-2.0
+[license]: 
 
 [gitter-image]: https://badges.gitter.im/snowplow/snowplow.svg
 [gitter]: https://gitter.im/CoursePlay-Editor-6/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-[website]: http://snowplowanalytics.com
-[wiki]: https://github.com/snowplow/snowplow/wiki
-[architecture-image]: https://d3i6fms1cm1j0i.cloudfront.net/github-wiki/images/snowplow-architecture.png
-[architecture-doc]: https://github.com/snowplow/snowplow/wiki/Technical-architecture
-[talk-to-us]: https://github.com/snowplow/snowplow/wiki/Talk-to-us
-[contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
+[website]: 
+[wiki]: 
+[architecture-image]: 
+[architecture-doc]: 
+[talk-to-us]: 
+[contributing]: 
 
 [setup]: 
 [tech-docs]: 
