@@ -68,7 +68,7 @@ limitations under the License.
 [license]: http://www.apache.org/licenses/LICENSE-2.0
 
 [gitter-image]: https://badges.gitter.im/snowplow/snowplow.svg
-[gitter]: https://gitter.im/snowplow/snowplow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter]: https://gitter.im/CoursePlay-Editor-6/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 [website]: http://snowplowanalytics.com
 [wiki]: https://github.com/snowplow/snowplow/wiki
