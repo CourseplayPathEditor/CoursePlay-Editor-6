@@ -26,6 +26,12 @@ STEAM
 </Settings>
 ```
 
+SET to true directoryoverride in gamesettings.xml and set the directory like this, you have it as False
+
+```
+<modsDirectoryOverride active="True" directory="C:\Users\User\My Games\FarmingSimulator2019\mods" />
+```
+
 ## Quickstart
 
 
