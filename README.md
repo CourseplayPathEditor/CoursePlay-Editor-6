@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/CoursePlay-Editor-6/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link][gitter-image]][gitter]
 
-[[https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/Screen%20detail.PNG|alt=CPEditor6]]
+[[https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/Screen%20detail.PNG?raw=true|alt=CPEditor6]]
 
 * **Installation**
 If you find troubles with settings.xml in C:\Users\Alfre\AppData\Local\FS19_FarmingDesktop, this are the correct format:
@@ -72,7 +72,7 @@ limitations under the License.
 [architecture-image]: 
 [architecture-doc]: 
 [talk-to-us]: 
-[contributing]: 
+[contributing]: https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/Screen%20detail.PNG
 
 [setup]: 
 [tech-docs]: 
