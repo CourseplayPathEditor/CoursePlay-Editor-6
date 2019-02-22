@@ -72,7 +72,7 @@ limitations under the License.
 [architecture-image]: 
 [architecture-doc]: 
 [talk-to-us]: 
-[contributing]: https://github.com/CourseplayPathEditor/CoursePlay-Editor-6/blob/gh-pages/images/Screen%20detail.PNG
+[contributing]: 
 
 [setup]: 
 [tech-docs]: 
