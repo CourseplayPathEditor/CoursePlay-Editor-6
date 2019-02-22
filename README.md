@@ -12,15 +12,24 @@ CoursePlay Editor 6 is                . It does three things:
 To briefly explain these six sub-systems:
 
 * **Installation**
-If you find troubles with settings, this are the correct format:
+If you find troubles with settings.xml in C:\Users\Alfre\AppData\Local\FS19_FarmingDesktop, this are the correct format:
 
-'''xml
+```DVD or GIANTS DOWNLOAD
+<Settings>
+  <Setting gamexmlfile="C:\Users\Alfre\Documents\My Games\FarmingSimulator2019" />
+  <Setting modrepository="D:\My Games Old\FarmingSimulator2019\mods" />
+  <Setting gameexefile="C:\Program Files (x86)\Farming Simulator 2019\" />
+</Settings>
+```
+STEAM
+```
 <Settings>
   <Setting gamexmlfile="C:\Users\ScottM\Documents\My Games\FarmingSimulator2019" />
   <Setting modrepository="C:\Users\ScottM\Documents\My Games\FarmingSimulator2019\mods" />
-  <Setting gameexefile="C:\Program Files (x86)\Steam\steamapps\common\Farming Simulator 19" />
+  <Setting gameexefile="C:\Program Files (x86)\Steam\steamapps\common\Farming Simulator 19\" />
 </Settings>
-'''
+```
+
 
 * **XXXX** 
 * **XXXX** 
