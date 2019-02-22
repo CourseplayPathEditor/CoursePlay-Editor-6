@@ -3,14 +3,6 @@
 [![Join the chat at https://gitter.im/CoursePlay-Editor-6/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link][gitter-image]][gitter]
 
 
-CoursePlay Editor 6 is                . It does three things:
-
-1. 
-2. 
-3. 
-
-To briefly explain these six sub-systems:
-
 * **Installation**
 If you find troubles with settings.xml in C:\Users\Alfre\AppData\Local\FS19_FarmingDesktop, this are the correct format:
 
@@ -30,22 +22,10 @@ STEAM
 </Settings>
 ```
 
-
-* **XXXX** 
-* **XXXX** 
-* **XXXX** 
-* **XXXX** 
-* **XXXX** 
-
-**For more information on the current CoursePlay Editor 6 architecture, please see the [Technical architecture][architecture-doc]**.
-
 ## Quickstart
 
-Assuming installed:
 
-
-
-## Find out more
+## Find the program "Only for Team Members"
 
 | **[Download CP Editor 6][techdocs]**     | **[Setup Guide][setup]**     | **[Roadmap][roadmap]**           | **[Contributing][contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
