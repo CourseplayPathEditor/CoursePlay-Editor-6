@@ -1,8 +1,5 @@
 # CoursePlay Editor 6
 
-[![Build Status][travis-image]][travis]
-[![Release][release-image]][releases]
-[![License][license-image]][license]
 [![Join the chat at https://gitter.im/CoursePlay-Editor-6/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link][gitter-image]][gitter]
 
 
@@ -14,7 +11,17 @@ CoursePlay Editor 6 is                . It does three things:
 
 To briefly explain these six sub-systems:
 
-* **XXXX** 
+* **Installation**
+If you find troubles with settings, this are the correct format:
+
+'''xml
+<Settings>
+  <Setting gamexmlfile="C:\Users\ScottM\Documents\My Games\FarmingSimulator2019" />
+  <Setting modrepository="C:\Users\ScottM\Documents\My Games\FarmingSimulator2019\mods" />
+  <Setting gameexefile="C:\Program Files (x86)\Steam\steamapps\common\Farming Simulator 19" />
+</Settings>
+'''
+
 * **XXXX** 
 * **XXXX** 
 * **XXXX** 
