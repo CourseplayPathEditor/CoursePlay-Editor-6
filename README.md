@@ -25,7 +25,7 @@ STEAM
 ## Quickstart
 
 
-## Find the program "Only for Team Members"
+## "Only for Team Members"
 
 | **[Download CP Editor 6][techdocs]**     | **[Setup Guide][setup]**     | **[Roadmap][roadmap]**           | **[Contributing][contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
